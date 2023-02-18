@@ -105,8 +105,8 @@ public class Main {
         int differenceDenis = denisNewCash-denisCash;
         int differenceKristina = kristinaNewCash-kristinaCash;
         System.out.println("Маша теперь получает "+mashaMonthNew+ " рублей. Годовой доход вырос на "+differenceMasha+" рублей");
-        System.out.println("Маша теперь получает "+denisMonthNew+ " рублей. Годовой доход вырос на "+differenceDenis+" рублей");
-        System.out.println("Маша теперь получает "+kristinaMonthNew+ " рублей. Годовой доход вырос на "+differenceKristina+" рублей");
+        System.out.println("Денис теперь получает "+denisMonthNew+ " рублей. Годовой доход вырос на "+differenceDenis+" рублей");
+        System.out.println("Кристина теперь получает "+kristinaMonthNew+ " рублей. Годовой доход вырос на "+differenceKristina+" рублей");
 
     }
 }
